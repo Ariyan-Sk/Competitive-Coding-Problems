@@ -31,6 +31,7 @@ void solve()
                 count2--;
             }
         }
+        
         cout << abs((count1 + count2) / 2) << endl;
     }
 }
